@@ -4,10 +4,10 @@ The quickest way in:
 
 1) Take all the dependencies and put them in your project's lib/ directory:
 
-- [commons-codec-1.6.jar](https://github.com/btrzupek/adDash-mobile-android-private/blob/master/addash-android/lib/commons-codec-1.6.jar)
-- [jackson-code-asl-1.9.2.jar](https://github.com/btrzupek/adDash-mobile-android-private/blob/master/addash-android/lib/jackson-core-asl-1.9.2.jar)
-- [jackson-mapper-asl-1.9.2.jar](https://github.com/btrzupek/adDash-mobile-android-private/blob/master/addash-android/lib/jackson-mapper-asl-1.9.2.jar)
-- [addash-android.jar](https://github.com/btrzupek/adDash-mobile-android-private/blob/master/addash-android-0.1.jar)
+- [commons-codec-1.6.jar](https://github.com/btrzupek/adDash-mobile-android/blob/master/addash-android/lib/commons-codec-1.6.jar)
+- [jackson-code-asl-1.9.2.jar](https://github.com/btrzupek/adDash-mobile-android/blob/master/addash-android/lib/jackson-core-asl-1.9.2.jar)
+- [jackson-mapper-asl-1.9.2.jar](https://github.com/btrzupek/adDash-mobile-android/blob/master/addash-android/lib/jackson-mapper-asl-1.9.2.jar)
+- [addash-android.jar](https://github.com/btrzupek/adDash-mobile-android/blob/master/addash-android-0.1.jar)
 
 2) Go to your project properties, to "Java Build Path", and add those four JAR files to the "Libraries" tab using the "Add JARs..." button
 
